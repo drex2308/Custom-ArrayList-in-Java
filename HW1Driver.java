@@ -57,12 +57,8 @@ public class HW1Driver {
         words.display();
 
         /*
-         * remove all of the duplicates in the words array
-         * Think carefully about how you would perform!
-         * 1. you are NOT allowed to use Java Collections Framework
-         *    Arrays class is a part of Java Collections Framework. Do not use it!
-         * 2. you are NOT allowed to use any other data structures
-         * 3. you are NOT allowed to use any sorting algorithms
+         * remove all of the duplicates in the words array, without using 
+         * Collections Framework, any other datastructure or any sorting alogorithms
          */
         words.removeDups();
 
