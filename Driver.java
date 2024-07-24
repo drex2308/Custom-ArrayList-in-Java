@@ -2,7 +2,7 @@ import java.util.Scanner;
 import java.io.File;
 import java.io.FileNotFoundException;
 
-public class HW1Driver {
+public class Driver {
     /**
      * Test driver for MyArray.
      * @param args arguments
